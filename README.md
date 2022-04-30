@@ -8,7 +8,7 @@ This project aims extract data from CSV and JSON files contaning movies info fro
 
 The cleaning process was an incremental process, because of that multiple Jupyter notebooks were created to test and execute each step, that were combined into a final code on [ETL_create_database.ipynb](ETL_create_database.ipynb).
 
-Files available in this directory:
+Files available in this repository:
 
 - ETL_function_test.ipynb: Create an ETL function to read the files
 - ETL_clean_wiki_movies.ipynb: Extract and transform Wikipedia data
