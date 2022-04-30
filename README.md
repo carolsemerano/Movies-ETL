@@ -14,4 +14,4 @@ Files available in this repository:
 - ETL_clean_wiki_movies.ipynb: Extract and transform Wikipedia data
 - ETL_clean_kaggle_data.ipynb: Extract and transform Kaggle data
 - ETL_create_database.ipynb: Uses all code created in the previous files, and create the movie database
-- Resources folder: Store the screenshots of Postgres tables
+- Resources folder: Store the screenshots of Postgres tables and data files.
